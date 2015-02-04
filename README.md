@@ -19,7 +19,7 @@ Add the repository to your project composer.json file:
 ```json
 "repositories": [
     {"type": "composer", "url": "http://packages.firegento.com"},
-    {"type": "vcs", "url": "git@github.com/studioForty9/counties.git}
+    {"type": "vcs", "url": "git@github.com/studioForty9/counties.git"}
 ],
 ```
 
